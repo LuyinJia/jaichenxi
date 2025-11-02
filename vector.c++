@@ -426,5 +426,7 @@ int main() {
     std::cout << "MyNamespace::NestedNamespace::multiply(2, 3) = " 
               << MyNamespace::NestedNamespace::multiply(2, 3) << std::endl;
     
+
+              
     return 0;
 }
